@@ -1,0 +1,51 @@
+{
+    "Personagens":[
+      {
+        "id":1,
+        "nome": "Anna",
+        "sexo":"Femenino",
+        "interpretado(a) por":"Elizabeth Lail"
+      },
+      {
+        "id":2,
+        "nome": "Elsa",
+        "sexo":"Feminino",
+        "interpretado(a) por":"Idina Menzel"
+      }
+  
+    ],
+    "Dubladores":[
+      {
+        "id":1,
+        "Personagem": "Anna",
+        "dublador":"Erika Menezes",
+        "interpretado(a) por":"Elizabeth Lail"
+        },
+        {
+        "id":2,
+        "Personagem": "Elsa",
+        "dublador":"Taryn Szpilman",
+        "interpretado(a) por":"Idina Menzel"
+        }
+    ],
+    "Musicas":[
+      {
+        "id":1,
+        "titulo": "Livre estou",
+        "cantor":"Taryn Szpilman",
+        "tempo": "3:45"
+      },
+      {
+        "id":2,
+        "titulo": "Uma vez na eternidade",
+        "cantor":"Taryn Szpilman",
+        "tempo": "3:43"
+      },
+      {
+        "id":3,
+        "titulo": "Uma vez na eternidade",
+        "cantor":"Gabi Porto",
+        "tempo": "2:00"
+      }
+    ]
+  }
